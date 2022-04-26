@@ -1,0 +1,16 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    font-size: 28px;
+    background-color: rgb(61, 61, 158);
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+#investorForm{
+    padding-left: 200px;
+   
+}
